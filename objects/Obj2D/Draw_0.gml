@@ -1,2 +1,4 @@
-Obj2D.sprite_index = DapAnDSai;
-alarm[0] = 2*room_speed ;
+draw_self() ;
+draw_set_valign(fa_middle);
+draw_set_font(Font_sz_19);
+draw_text(x, y, "15");
